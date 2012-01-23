@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Markdown" ext="md">
+    <UserLang name="Markdown" ext="md mkd markdown">
         <Settings>
             <Global caseIgnored="yes" escapeChar="\" />
             <TreatAsSymbol comment="no" commentLine="yes" />
